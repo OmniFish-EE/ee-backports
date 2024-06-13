@@ -7,14 +7,14 @@
         <version>0.1</version>
     </parent>
     <groupId>ee.omnifish</groupId>
-    <artifactId>ee9-backports</artifactId>
+    <artifactId>ee8-backports</artifactId>
     <version>0.1</version>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
             <groupId>jakarta.platform</groupId>
             <artifactId>jakarta.jakartaee-api</artifactId>
-            <version>9.1.0</version>
+            <version>8.0.0</version>
         </dependency>
     </dependencies>
     <properties>
