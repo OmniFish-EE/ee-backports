@@ -4,11 +4,11 @@
     <parent>
         <groupId>ee.omnifish</groupId>
         <artifactId>ee-backports</artifactId>
-        <version>0.1</version>
+        <version>0.2</version>
     </parent>
     <groupId>ee.omnifish</groupId>
     <artifactId>ee8-backports</artifactId>
-    <version>0.1</version>
+    <version>0.2</version>
     <packaging>jar</packaging>
     <dependencies>
         <dependency>
